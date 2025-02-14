@@ -1,4 +1,4 @@
-gunicon
+gunicorn
 flask
-scitit-learn
+scikit-learn
 nltk
